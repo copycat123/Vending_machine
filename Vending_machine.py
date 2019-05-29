@@ -22,4 +22,4 @@ while True:
         print("Here is your {}: {}".format(choice, snack))
 
 
-'make further changes'
+'make further changes into file'

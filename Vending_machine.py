@@ -20,6 +20,3 @@ while True:
         print("Sorry all out of {}".format(choice))
     else:
         print("Here is your {}: {}".format(choice, snack))
-
-
-'make further changes into file'
